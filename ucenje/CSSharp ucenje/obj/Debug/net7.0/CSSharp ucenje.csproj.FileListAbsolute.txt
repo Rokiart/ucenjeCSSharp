@@ -1,0 +1,14 @@
+E:\1 EDUNOVA MATERIJALI\gith\UcenjeCSSharp\ucenje\CSSharp ucenje\bin\Debug\net7.0\CSSharp ucenje.exe
+E:\1 EDUNOVA MATERIJALI\gith\UcenjeCSSharp\ucenje\CSSharp ucenje\bin\Debug\net7.0\CSSharp ucenje.deps.json
+E:\1 EDUNOVA MATERIJALI\gith\UcenjeCSSharp\ucenje\CSSharp ucenje\bin\Debug\net7.0\CSSharp ucenje.runtimeconfig.json
+E:\1 EDUNOVA MATERIJALI\gith\UcenjeCSSharp\ucenje\CSSharp ucenje\bin\Debug\net7.0\CSSharp ucenje.dll
+E:\1 EDUNOVA MATERIJALI\gith\UcenjeCSSharp\ucenje\CSSharp ucenje\bin\Debug\net7.0\CSSharp ucenje.pdb
+E:\1 EDUNOVA MATERIJALI\gith\UcenjeCSSharp\ucenje\CSSharp ucenje\obj\Debug\net7.0\CSSharp ucenje.GeneratedMSBuildEditorConfig.editorconfig
+E:\1 EDUNOVA MATERIJALI\gith\UcenjeCSSharp\ucenje\CSSharp ucenje\obj\Debug\net7.0\CSSharp ucenje.AssemblyInfoInputs.cache
+E:\1 EDUNOVA MATERIJALI\gith\UcenjeCSSharp\ucenje\CSSharp ucenje\obj\Debug\net7.0\CSSharp ucenje.AssemblyInfo.cs
+E:\1 EDUNOVA MATERIJALI\gith\UcenjeCSSharp\ucenje\CSSharp ucenje\obj\Debug\net7.0\CSSharp ucenje.csproj.CoreCompileInputs.cache
+E:\1 EDUNOVA MATERIJALI\gith\UcenjeCSSharp\ucenje\CSSharp ucenje\obj\Debug\net7.0\CSSharp ucenje.dll
+E:\1 EDUNOVA MATERIJALI\gith\UcenjeCSSharp\ucenje\CSSharp ucenje\obj\Debug\net7.0\refint\CSSharp ucenje.dll
+E:\1 EDUNOVA MATERIJALI\gith\UcenjeCSSharp\ucenje\CSSharp ucenje\obj\Debug\net7.0\CSSharp ucenje.pdb
+E:\1 EDUNOVA MATERIJALI\gith\UcenjeCSSharp\ucenje\CSSharp ucenje\obj\Debug\net7.0\CSSharp ucenje.genruntimeconfig.cache
+E:\1 EDUNOVA MATERIJALI\gith\UcenjeCSSharp\ucenje\CSSharp ucenje\obj\Debug\net7.0\ref\CSSharp ucenje.dll
