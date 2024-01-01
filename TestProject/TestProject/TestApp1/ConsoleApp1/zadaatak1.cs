@@ -88,22 +88,24 @@ namespace ConsoleApp1
         //}
         //****************************************************************************************************
         //konzolna aplikacija koja zbraja 10 brojeva koristeci DO WHILE petlju , prvo izračunava petlju te provjerava uvjet 
-        {
-            int zbroj = 0;
-            int i = 1;
+        //{
+        //    int zbroj = 0;
+        //    int i = 1;
 
-            do
-            {
-                Console.WriteLine("Unesi broj: " + i + " . broj");
+        //    do
+        //    {
+        //        Console.WriteLine("Unesi broj: " + i + " . broj");
 
-                int broj = Convert.ToInt32(Console.ReadLine());
+        //        int broj = Convert.ToInt32(Console.ReadLine());
 
-                zbroj = zbroj + broj;
-                i++; // bez ovog povečanja  petlje , petlja bi se ponavljala beskonačno
+        //        zbroj = zbroj + broj;
+        //        i++; // bez ovog povečanja  petlje , petlja bi se ponavljala beskonačno
 
-            } while (i <= 10);
-            Console.WriteLine("Zbroj svih 10 brojeva je " + zbroj);
-        }
+        //    } while (i <= 10);
+        //    Console.WriteLine("Zbroj svih 10 brojeva je " + zbroj);
+        //}
+        //*****************************************************************************************************
+        //
 
 
     }
