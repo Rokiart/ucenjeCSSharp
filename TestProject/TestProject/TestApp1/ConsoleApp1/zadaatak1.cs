@@ -9,7 +9,7 @@ namespace ConsoleApp1
 {
     internal class zadaatak1
     {
-        public static void Main()
+        public static void Main(string[] args)
         //*********************************************************************************************
         //{
         //    Console.WriteLine("unesite n:");
@@ -105,8 +105,42 @@ namespace ConsoleApp1
         //    Console.WriteLine("Zbroj svih 10 brojeva je " + zbroj);
         //}
         //*****************************************************************************************************
-        //
+        // upisati 6 imena , te provjeriti koliko ima imena sa brojem slova manjih , jednakih i vecih od 5
+        //{
+        //    string[] imena = new string[6]; //definira zauzece memorijske celije pod nazivom "varijabla = imena " koje iznosi 6
 
+        //    int BrojSlovaManjiOd5 = 0; // brojac varijable 
+        //    int BrojSlovaTocno5 = 0;
+        //    int BrojSlovaVeciOd5 = 0;
 
+        //    for (int i = 0; i < imena.Length; i++) //Petlja
+        //    {
+        //        Console.Write("Unesite ime : " + (i + 1) + "  ");
+        //        imena[i] = Console.ReadLine();
+
+        //        if (imena[i].Length < 5)
+        //        {
+        //            BrojSlovaManjiOd5++;
+
+        //        }
+        //        if (imena[i].Length == 5)
+        //        {
+        //            BrojSlovaTocno5++;
+        //        }
+        //        else
+        //        {
+        //            BrojSlovaVeciOd5++;
+        //        }
+
+        //        Console.WriteLine(" imena s brojem slova manjim od 5 su : " + BrojSlovaManjiOd5 + " , ");
+
+        //        Console.WriteLine(" imena s brojem slova  od 5 su : " + BrojSlovaTocno5 + " , ");
+
+        //        Console.WriteLine(" imena s brojem slova večim od 5 su : " + BrojSlovaVeciOd5 + " , ");
+
+        //    }
+
+        //}
+        //*************************************************************************************************
     }
 }
