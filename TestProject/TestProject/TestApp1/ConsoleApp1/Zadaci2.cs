@@ -10,7 +10,7 @@ namespace ConsoleApp1
 {
     internal class Zadaci2
     { 
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
             //Napišite program koji za učitani polumjer kruga r izračunava površinu i opseg kruga.
             //Ako polumjer nije ispravno zadan(manji od nule) program ispisuje poruku "Niste unijeli dobar polumjer!" te program završava.
@@ -32,7 +32,7 @@ namespace ConsoleApp1
                   double O = 2 * r * Math.PI;                            // Nova varijabla "O" , opseg . Te formula za izracun opsega kruga
 
                   Console.WriteLine("Površina i opseg kruga s polumjerom " + r + " iznosi: P =  " + Math.Round(P,2) + " , " + " O = " + Math.Round(O ,3) + " ! "); 
-                                                                        // Funkcija Math.Round zaokruzuje rezultat na (P  na 2 decimale ,a O na 3 decimale)
+                                                                        // Funkcija "Math.Round" zaokruzuje rezultat na (P  na 2 decimale ,a O na 3 decimale)
             }
              else
              {
@@ -77,7 +77,7 @@ namespace ConsoleApp1
         static double ZbrojKvadrata(int x , int y)   //Metodu pisemo izvan Main metode , mogli smo ju pisat i iznad Main metode . double - vratit ce decimalni rezultat,
                                                      //"ZbrojKvadrata" - ime metode , U zagradi argumenti s kojima cemo raditi .Otvaramo zagrade unutar kojih ce metoda raditi
                                                      // Umjesto x i y ako upisemo neko drugo ime varijable . Metoda ce ih smatrat kao x i y  .npr "static double ZbrojKvadrata(int a , int b)".
-                                                     // U tom slucaju moramo samo koristit unutar metode varijable a i b . 
+                                                     // U tom slucaju moramo samo koristit unutar metode varijable a i b u izracunu . 
 
         {
             double rezultat = Math.Pow(x, 2) + Math.Pow(y, 2); //kreiro sam novu varijablu tipa double "rezultat" , uvrstena trazena jednadjba Zbroj kvadrata od x i y
