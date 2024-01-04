@@ -20,23 +20,24 @@ namespace ConsoleApp1
             //"Površina i opseg kruga s polumjerom 2.5 iznosi: P = 19.625, O = 15.7!".
 
 
-            // Console.Write("Unesite polumjer kruga r = ");
+             Console.Write("Unesite polumjer kruga r = ");
 
-            //double r = Convert.ToDouble(Console.ReadLine());//Program uvjek cita prvo desnu stranu jednakosti. Dakle po matematickim pravilima prvo ocitava unutar zagrade
-            // dakle : "Console.ReadLine" , potom uneseni string pretvara sa naredbom "Convert.ToDouble" u double (decimalni broj) ,
-            // te ga dodjeljuje varijabli "r" . Ljeva strana od jednakosti se naziva "Deklaracija od r " ,a desna strana "Inicijalizacija od r"
-            //if ( r>=0 )                                     //ako je r veci ili jednako 0 ulazi u blok naredbe
-            //{
-            // double P = Math.Pow(r, 2) * Math.PI;        //Napravio sam novu varijablu "P" povrsina te uvrstio jednadzbu za izracun povrsine kruga
-            //"Math.Pow (r,2)= potencija r na drugu " puta PI (3.14) . Sve matematicke funkcije u programu se vracaju kao double
-            //double O = 2 * r * Math.PI;                 // Nova varijabla "O" , opseg . Te formula za izracun opsega kruga
+            double r = Convert.ToDouble(Console.ReadLine());             //Program uvjek cita prvo desnu stranu jednakosti. Dakle po matematickim pravilima prvo ocitava unutar zagrade
+                                                                         // dakle : "Console.ReadLine" , potom uneseni string pretvara sa naredbom "Convert.ToDouble" u double (decimalni broj) ,
+                                                                         // te ga dodjeljuje varijabli "r" . Ljeva strana od jednakosti se naziva "Deklaracija od r " ,a desna strana "Inicijalizacija od r"
+            if ( r>=0 )                                                  //ako je r veci ili jednako 0 ulazi u blok naredbe
+            {
+                  double P = Math.Pow(r, 2) * Math.PI;                   //Napravio sam novu varijablu "P" povrsina te uvrstio jednadzbu za izracun povrsine kruga
+                                                                         //"Math.Pow (r,2)= potencija r na drugu " puta PI (3.14) . Sve matematicke funkcije u programu se vracaju kao double
+                  double O = 2 * r * Math.PI;                            // Nova varijabla "O" , opseg . Te formula za izracun opsega kruga
 
-            // Console.WriteLine("Površina i opseg kruga s polumjerom " + r + " iznosi: P =  " + Math.Round(P,2) + " , " + " O = " + Math.Round(O ,3) + " ! "); // Funkcija Math.Round zaokruzuje rezultat na (P  na 2 decimale ,a O na 3 decimale)
-            // }
-            //else
-            //{
-            // Console.WriteLine("Niste unijeli dobar polumjer!");
-            //}
+                  Console.WriteLine("Površina i opseg kruga s polumjerom " + r + " iznosi: P =  " + Math.Round(P,2) + " , " + " O = " + Math.Round(O ,3) + " ! "); 
+                                                                        // Funkcija Math.Round zaokruzuje rezultat na (P  na 2 decimale ,a O na 3 decimale)
+            }
+             else
+             {
+                 Console.WriteLine("Niste unijeli dobar polumjer!");
+             }
 
 
             //************************************************************************************************************************************************
@@ -45,11 +46,11 @@ namespace ConsoleApp1
             //Za kvadriranje je potrebno koristiti ugrađene matematičke metode.
             //Npr.ako korisnik preko tipkovnice unese brojeve 5 i 6 potrebno je ispisati: "Zbroj kvadrata brojeva 5 i 6 iznosi: 61!". 
 
-            Console.WriteLine("Upisi 1. broj : ");
+            Console.Write("Upisi 1. broj : ");
 
             int x = Convert.ToInt32(Console.ReadLine());   // Pošto se radi s prirodnim brojevima (cijeli brojevi) , konvertirali smo novu varijablu "x" u intidjer ima int 16 ,32 , 64 ( količina zauzeca memorije)
 
-            Console.WriteLine("Upisi 2. broj : ");
+            Console.Write("Upisi 2. broj : ");
 
 
 
