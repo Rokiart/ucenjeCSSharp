@@ -4,8 +4,8 @@ namespace ConsoleApp1
 {
     internal class Zadaci3
     {
-        //static void Main(string[] args)
-        //{
+        static void Main(string[] args)
+        {
         //    //Napišite program koji učitava tri realna broja a, b i c. 
         //    //Ako je broj a veći od broja b program ispisuje zbroj učitanih brojeva, 
         //    //inače ako uvjet ne vrijedi program ispisuje "Nisu učitani ispravni brojevi!", te tu program završava. 
@@ -31,7 +31,10 @@ namespace ConsoleApp1
         //    //{
         //    //    Console.WriteLine("Nisu učitani ispravni brojevi!");
         //    //}
-        //}
+        //*********************************************************************************
+
+
+        }
 
 
 
