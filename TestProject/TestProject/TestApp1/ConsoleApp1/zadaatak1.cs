@@ -9,7 +9,7 @@ namespace ConsoleApp1
 {
     internal class zadaatak1
     {
-        public static void Main(string[] args)
+       // public static void Main(string[] args)
         //*********************************************************************************************
         //{
         //    Console.WriteLine("unesite n:");
