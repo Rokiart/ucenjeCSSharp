@@ -1,2 +1,5 @@
-﻿//// See https://aka.ms/new-console-template for more information
-//Console.WriteLine("Hello, World!");
+﻿using ConsoleApp1
+
+   //zadaatak1.CS
+   //Zadaci2.CS
+   Zadaci3.CS
