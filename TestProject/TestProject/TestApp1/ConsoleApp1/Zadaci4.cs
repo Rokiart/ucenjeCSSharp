@@ -29,7 +29,8 @@ namespace ConsoleApp1
 
         }
 
-         static int ZbrojOduzmi (int a ,int  b)       // Metoda "ZbrojOduzmi()" unutar zagrada je ono šta ta metoda prima i u vitičastim će biti šta metoda radi .
+         private static int ZbrojOduzmi (int a ,int  b)      // Metoda "ZbrojOduzmi()" unutar zagrada je ono šta ta metoda prima i u vitičastim će biti šta metoda raditi .
+                                                             // kad nepise nista ispred static smatra se da je private , te ce bit vidljivo metodi unutar klase
                                                      // umjesto "void" (naziv za metodu koja nista nevraca) stavljamo naziv "int" posto ce metoda vracat intidjer (prirodni broj)
         {
             int rezultat = 0;

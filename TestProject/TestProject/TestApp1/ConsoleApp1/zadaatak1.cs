@@ -9,7 +9,7 @@ namespace ConsoleApp1
 {
     internal class zadaatak1
     {
-       // public static void Main(string[] args)
+        public static void Main(string[] args)
         //*********************************************************************************************
         //{
         //    Console.WriteLine("unesite n:");
@@ -87,36 +87,36 @@ namespace ConsoleApp1
         //    Console.WriteLine("Zbroj svih 10 brojeva je " + zbroj);
         //}
         //****************************************************************************************************
-        //konzolna aplikacija koja zbraja 10 brojeva koristeci DO WHILE petlju , prvo izračunava petlju te provjerava uvjet 
-        //{
-        //    int zbroj = 0;
-        //    int i = 1;
+        //konzolna aplikacija koja zbraja 10 brojeva koristeci DO WHILE petlju , prvo izračunava petlju te provjerava uvjet
+        {
+            int zbroj = 0;
+        int i = 1;
 
-        //    do
-        //    {
-        //        Console.WriteLine("Unesi broj: " + i + " . broj");
+            do
+            {
+                Console.WriteLine("Unesi broj: " + i + " . broj");
 
-        //        int broj = Convert.ToInt32(Console.ReadLine());
+                int broj = Convert.ToInt32(Console.ReadLine());
 
-        //        zbroj = zbroj + broj;
-        //        i++; // bez ovog povečanja  petlje , petlja bi se ponavljala beskonačno
+        zbroj = zbroj + broj;
+                i++; // bez ovog povečanja  petlje , petlja bi se ponavljala beskonačno
 
-        //    } while (i <= 10);
-        //    Console.WriteLine("Zbroj svih 10 brojeva je " + zbroj);
-        //}
+            } while (i <= 10);
+            Console.WriteLine("Zbroj svih 10 brojeva je " + zbroj);
+        }
         //*****************************************************************************************************
         // upisati 6 imena , te provjeriti koliko ima imena sa brojem slova manjih , jednakih i vecih od 5
         //{
-        //    string[] imena = new string[6]; //definira zauzece memorijske celije pod nazivom "varijabla = imena " koje iznosi 6
+        //    string[] imena = new string[6];                          //definira zauzece memorijske celije pod nazivom "varijabla = imena " koje iznosi 6
 
-        //    int BrojSlovaManjiOd5 = 0; // brojac varijable 
+        //    int BrojSlovaManjiOd5 = 0;                               // brojac varijable 
         //    int BrojSlovaTocno5 = 0;
         //    int BrojSlovaVeciOd5 = 0;
 
-        //    for (int i = 0; i < imena.Length; i++) //Petlja
+        //    for (int i = 0; i<imena.Length; i++)                   //Petlja
         //    {
         //        Console.Write("Unesite ime : " + (i + 1) + "  ");
-        //        imena[i] = Console.ReadLine();
+        //        imena[I] = Console.ReadLine();
 
         //        if (imena[i].Length < 5)
         //        {
