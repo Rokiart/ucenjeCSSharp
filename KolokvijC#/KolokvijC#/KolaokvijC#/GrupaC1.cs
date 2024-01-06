@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿
 
 namespace KolaokvijC_
 {
@@ -16,23 +12,23 @@ namespace KolaokvijC_
             //        Za svaku neispravno unesenu lozinku npr. 568 program ispisuje "Unesena lozinka 568 nije ispravna!".
 
             string lozinka = "a1b2";
-            string unos = "";                               //nova varijabla "unos" koja ima vrijednost praznog stringa . Moraju se postavit sve vrijednosti prije petlje 
+            string upis = "";                               //nova varijabla "unos" koja ima vrijednost praznog stringa . Moraju se postavit sve vrijednosti prije petlje 
 
             do
             {
                 Console.Write("Unesite lozinku : ");
                 Console.ReadLine();
-                if (unos==lozinka)
+                if (upis==lozinka)
                 {
                     Console.WriteLine("Lozinka je ispravna !");
                 }
                 else
                 {
-                    Console.WriteLine("Unesena lozinka " + unos + " nije ispravna . Pokusajte ponovo !");
+                    Console.WriteLine("Unesena lozinka " + upis +  " nije ispravna . Pokusajte ponovo !");
                    
                 }
 
-            } while (lozinka != unos);                     //Petlja se ponavlja beskonacno dok god se ne unese true podatak
+            } while (lozinka != upis);                     //Petlja se ponavlja beskonacno dok god se ne unese true podatak
 
         }
     }
