@@ -1,0 +1,14 @@
+E:\1 EDUNOVA MATERIJALI\gith\UcenjeCSSharp\KolokvijC#\KolokvijC#\KolaokvijC#\bin\Debug\net7.0\KolaokvijC#.exe
+E:\1 EDUNOVA MATERIJALI\gith\UcenjeCSSharp\KolokvijC#\KolokvijC#\KolaokvijC#\bin\Debug\net7.0\KolaokvijC#.deps.json
+E:\1 EDUNOVA MATERIJALI\gith\UcenjeCSSharp\KolokvijC#\KolokvijC#\KolaokvijC#\bin\Debug\net7.0\KolaokvijC#.runtimeconfig.json
+E:\1 EDUNOVA MATERIJALI\gith\UcenjeCSSharp\KolokvijC#\KolokvijC#\KolaokvijC#\bin\Debug\net7.0\KolaokvijC#.dll
+E:\1 EDUNOVA MATERIJALI\gith\UcenjeCSSharp\KolokvijC#\KolokvijC#\KolaokvijC#\bin\Debug\net7.0\KolaokvijC#.pdb
+E:\1 EDUNOVA MATERIJALI\gith\UcenjeCSSharp\KolokvijC#\KolokvijC#\KolaokvijC#\obj\Debug\net7.0\KolaokvijC#.GeneratedMSBuildEditorConfig.editorconfig
+E:\1 EDUNOVA MATERIJALI\gith\UcenjeCSSharp\KolokvijC#\KolokvijC#\KolaokvijC#\obj\Debug\net7.0\KolaokvijC#.AssemblyInfoInputs.cache
+E:\1 EDUNOVA MATERIJALI\gith\UcenjeCSSharp\KolokvijC#\KolokvijC#\KolaokvijC#\obj\Debug\net7.0\KolaokvijC#.AssemblyInfo.cs
+E:\1 EDUNOVA MATERIJALI\gith\UcenjeCSSharp\KolokvijC#\KolokvijC#\KolaokvijC#\obj\Debug\net7.0\KolaokvijC#.csproj.CoreCompileInputs.cache
+E:\1 EDUNOVA MATERIJALI\gith\UcenjeCSSharp\KolokvijC#\KolokvijC#\KolaokvijC#\obj\Debug\net7.0\KolaokvijC#.dll
+E:\1 EDUNOVA MATERIJALI\gith\UcenjeCSSharp\KolokvijC#\KolokvijC#\KolaokvijC#\obj\Debug\net7.0\refint\KolaokvijC#.dll
+E:\1 EDUNOVA MATERIJALI\gith\UcenjeCSSharp\KolokvijC#\KolokvijC#\KolaokvijC#\obj\Debug\net7.0\KolaokvijC#.pdb
+E:\1 EDUNOVA MATERIJALI\gith\UcenjeCSSharp\KolokvijC#\KolokvijC#\KolaokvijC#\obj\Debug\net7.0\KolaokvijC#.genruntimeconfig.cache
+E:\1 EDUNOVA MATERIJALI\gith\UcenjeCSSharp\KolokvijC#\KolokvijC#\KolaokvijC#\obj\Debug\net7.0\ref\KolaokvijC#.dll
