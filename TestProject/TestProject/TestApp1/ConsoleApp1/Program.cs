@@ -1,5 +1,11 @@
-﻿using ConsoleApp1
+﻿using ConsoleApp1;
 
-   //zadaatak1.CS
-   //Zadaci2.CS
-   Zadaci3.CS
+//zadaatak1.Main();
+//Zadaci2.Main();
+//Zadaci3.Main();
+Zadaci4.Main();
+
+
+
+
+ 

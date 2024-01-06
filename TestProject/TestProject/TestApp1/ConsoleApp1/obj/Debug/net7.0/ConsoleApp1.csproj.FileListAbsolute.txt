@@ -1,0 +1,4 @@
+E:\1 EDUNOVA MATERIJALI\gith\UcenjeCSSharp\TestProject\TestProject\TestApp1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\1 EDUNOVA MATERIJALI\gith\UcenjeCSSharp\TestProject\TestProject\TestApp1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.AssemblyInfoInputs.cache
+E:\1 EDUNOVA MATERIJALI\gith\UcenjeCSSharp\TestProject\TestProject\TestApp1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.AssemblyInfo.cs
+E:\1 EDUNOVA MATERIJALI\gith\UcenjeCSSharp\TestProject\TestProject\TestApp1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.csproj.CoreCompileInputs.cache

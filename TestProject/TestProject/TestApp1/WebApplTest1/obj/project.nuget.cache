@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "+DaZJJM3NeXNCbM18yb3LAchKR8s0YQXW/l3aEv5qTqJ1/H6J9/zvO2gyAjwYtaS+wm16VLTYCyzi4AZsX+hRw==",
+  "success": true,
+  "projectFilePath": "E:\\1 EDUNOVA MATERIJALI\\gith\\UcenjeCSSharp\\TestProject\\TestProject\\TestApp1\\WebApplTest1\\WebApplTest1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\roman\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.13\\microsoft.aspnetcore.openapi.7.0.13.nupkg.sha512",
+    "C:\\Users\\roman\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\roman\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\roman\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\roman\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\roman\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\roman\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
