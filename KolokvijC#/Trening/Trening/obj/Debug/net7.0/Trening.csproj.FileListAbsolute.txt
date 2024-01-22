@@ -1,0 +1,4 @@
+E:\1 EDUNOVA MATERIJALI\gith\UcenjeCSSharp\KolokvijC#\Trening\Trening\obj\Debug\net7.0\Trening.GeneratedMSBuildEditorConfig.editorconfig
+E:\1 EDUNOVA MATERIJALI\gith\UcenjeCSSharp\KolokvijC#\Trening\Trening\obj\Debug\net7.0\Trening.AssemblyInfoInputs.cache
+E:\1 EDUNOVA MATERIJALI\gith\UcenjeCSSharp\KolokvijC#\Trening\Trening\obj\Debug\net7.0\Trening.AssemblyInfo.cs
+E:\1 EDUNOVA MATERIJALI\gith\UcenjeCSSharp\KolokvijC#\Trening\Trening\obj\Debug\net7.0\Trening.csproj.CoreCompileInputs.cache

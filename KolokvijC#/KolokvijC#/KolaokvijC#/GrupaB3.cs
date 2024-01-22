@@ -26,7 +26,7 @@ namespace KolaokvijC_
 
             //string ime = "Edunova";
 
-            //int BrojSlovan=0                                      // Tražimo koliko ima slobva "n" u stringu "ime"
+            //int BrojSlovan=0                                      // Tražimo koliko ima slova "n" u stringu "ime"
 
             //for (int i = 0; i < ime.Length; i++)                  //Funkcija " Lenght " prebrojava koliko karaktera ima u stringu "ime"
             //{

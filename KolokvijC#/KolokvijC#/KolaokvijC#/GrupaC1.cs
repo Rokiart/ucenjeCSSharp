@@ -7,11 +7,11 @@ namespace KolaokvijC_
         public static void Izvedi()
         {
             //        Napišite program koji omogućuje korisniku unos lozinke sve dok ona ne bude jednaka vrijednosti lozinke pohranjena u varijabli
-            //        lozinka, npr. "a1b2".Lozinka može biti bilo koja riječ ili broj ili kombinacija navedenog. 
+            //        lozinka, npr. "0000".Lozinka može biti bilo koja riječ ili broj ili kombinacija navedenog. 
             //        U trenutku kada korisnik upiše ispravnu lozinku treba mu se ispisati poruka: "Lozinka je ispravna!".
             //        Za svaku neispravno unesenu lozinku npr. 568 program ispisuje "Unesena lozinka 568 nije ispravna!".
 
-            string lozinka = "a1b2";
+            string lozinka = "0000";
             string upis = "";                               //nova varijabla "unos" koja ima vrijednost praznog stringa . Moraju se postavit sve vrijednosti prije petlje 
 
             do
@@ -24,7 +24,7 @@ namespace KolaokvijC_
                 }
                 else
                 {
-                    Console.WriteLine("Unesena lozinka " + upis +  " nije ispravna . Pokusajte ponovo !");
+                    Console.Write("Unesena lozinka " + upis + " nije ispravna . Pokusajte ponovo !");
                    
                 }
 
